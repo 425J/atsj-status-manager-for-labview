@@ -1,0 +1,15 @@
+# ignore everything
+/*
+
+# exceptions
+!docs/
+!docs/**
+!src/
+!src/**
+!.gitignore
+!README.md
+!LICENSE
+
+!*.lvproj
+!*.vipc
+!*.vipc.bat
